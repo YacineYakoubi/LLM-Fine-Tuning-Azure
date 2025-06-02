@@ -23,9 +23,9 @@ You can check the MS Learn document [here](https://learn.microsoft.com/en-us/azu
 
 ### Step 1: Open the *Create a custom model* wizard
 1. Open Azure AI Foundry at [https://ai.azure.com/](https://ai.azure.com/) and sign in with credentials that have access to your Azure AI Foundry resource. In the **connected resources** tab, make sure that an Azure OpenAI resource is already connected to your AI Foundry Hub.
-2. In Azure AI Foundry, choose an existing project or create a new project. <ol><img src="../images/screenshot-foundry-create-project" alt="Screenshot of the project creation" width="600"/></ol>
+2. In Azure AI Foundry, choose an existing project or create a new project. <ol><img src="../images/screenshot-foundry-create-project.png" alt="Screenshot of the project creation" width="600"/></ol>
 3. Once we have our project created, browse to the **Fine-tuning** pane, and select **Fine-tune model**.
-<ol><img src="../images/screenshot-foundry-create-finetuning" alt="Screenshot of the Fine-tuning pane for the Creation for the custom model wizard" width="600"/></ol>
+<ol><img src="../images/screenshot-foundry-create-finetuning.png" alt="Screenshot of the Fine-tuning pane for the Creation for the custom model wizard" width="600"/></ol>
 
 ### Step 2: Select the *Base model*
 The first step in creating a custom model is to choose a base model. In this demo, we choose *gpt-4o-mini*.
